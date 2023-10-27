@@ -1,0 +1,16 @@
+:root {
+    /*Color Palette*/
+    --main: #4A051C;
+    --secondary: #52FFB8;
+    --tertiary: #830A48;
+}
+
+body {
+    background-color: var(--main);
+    font-size: large;
+}
+
+container {
+    background-color: var(--secondary);
+}
+
