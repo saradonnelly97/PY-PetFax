@@ -10,7 +10,7 @@ body {
     font-size: large;
 }
 
-container {
+.container {
     background-color: var(--secondary);
 }
 
